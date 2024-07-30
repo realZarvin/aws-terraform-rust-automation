@@ -1,0 +1,7 @@
+terraform-aws-rust/
+├── main.tf
+├── variables.tf
+├── outputs.tf
+├── README.md
+└── src/
+    └── main.rs
